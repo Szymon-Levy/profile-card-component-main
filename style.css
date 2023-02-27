@@ -29,7 +29,7 @@ body{
     background-image: url("images/bg-pattern-top.svg");
     width: 900px;
     height: 900px;
-    position: absolute;
+    position: fixed;
     left: -640px;
     top: -500px;
     background-size: 100%;
@@ -41,7 +41,7 @@ body{
     background-image: url("images/bg-pattern-bottom.svg");
     width: 900px;
     height: 900px;
-    position: absolute;
+    position: fixed;
     right: -640px;
     bottom: -500px;
     background-size: 100%;
