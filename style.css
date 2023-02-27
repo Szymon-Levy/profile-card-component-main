@@ -80,6 +80,7 @@ body{
     font-size: 18px;
     color: var(--Very-dark-desaturated-blue);
     font-weight: 700;
+    margin-top: 10px;
 }
 
 .card-content .name h4 span{
